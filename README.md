@@ -115,7 +115,7 @@ GYM_Dashboard/
 
 ## 📬 Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash966) or raise an issue if you have suggestions or questions!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash-shah-97a595175/) or raise an issue if you have suggestions or questions!
 
 ---
 
