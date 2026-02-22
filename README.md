@@ -8,7 +8,7 @@
 
 ## 📊 Dashboard Preview
 
-![Fitness Dashboard](<img width="1332" height="750" alt="Image" src="https://github.com/user-attachments/assets/3f07a463-36a0-4c34-87ff-d622209b4e36" />)
+![Fitness Dashboard](https://github.com/user-attachments/assets/3f07a463-36a0-4c34-87ff-d622209b4e36")
 
 ---
 
